@@ -1,0 +1,41 @@
+.header_fon {
+    position: absolute;
+}
+
+h1 {
+    font-family: 'bebas_neueregular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 61px;
+    line-height: 61px;
+    color: #fff;
+    position: relative;
+    top: 185px;
+    width: 540px;
+    margin-bottom: 12px;
+}
+
+.content img {
+    position: relative;
+    left: 408px;
+    top: 30px;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    position: relative;
+    background: #14475F;
+    top: 180px;
+    text-align: center;
+    padding: 18px 20px;
+}
+
+h2 a {
+    color: #fff;
+    text-decoration: none;
+    width: 540px;
+}
